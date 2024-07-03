@@ -5,7 +5,7 @@
 }
 
 img {
-  border: rgb(172, 157, 157) 4px solid;
+  border: #d9cfd7 4px solid;
   margin: auto;
 }
 
@@ -13,12 +13,12 @@ body {
   font-family: "poppins", sans-serif;
   line-height: 1.6;
   font-size: 1.5rem;
-  background-color: rgb(112, 108, 108);
+  background-color: #625d74;
 }
 
 header {
-  background-color: #333;
-  color: #fff;
+  /* background-color: #81a88a; */
+  color: #d9cfd7;
   width: 100%;
 }
 
@@ -31,13 +31,13 @@ header .container {
   padding: 0 50px;
   position: fixed;
   line-height: 2;
-  background-color: #333;
+  background-color: black;
   transition: 0.5;
 }
 
 header h1 {
   font-size: 35px;
-  color: #fff;
+  color: #d9cfd7;
 }
 
 header nav ul {
@@ -51,7 +51,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-  color: #fff;
+  color: #d9cfd7;
   text-decoration: none;
   font-size: 18px;
 }
@@ -73,13 +73,13 @@ section .container {
 section h2 {
   font-size: 32px;
   margin-bottom: 20px;
-  color: azure;
+  color: #d9cfd7;
 }
 
 section p {
   font-size: 16px;
   line-height: 1.8;
-  color: #fff;
+  color: #d9cfd7;
   align-items: CENTER;
 }
 
@@ -102,11 +102,11 @@ section li {
 #about .about-item {
   display: grid;
   grid-auto-flow: column;
-  color: #fff;
-  background: #333;
+  color: #d9cfd7;
+  background: #1b1828;
   padding: 1rem;
   align-items: center;
-  border: rgb(172, 157, 157) 6px solid;
+  border: #828da6 6px solid;
   padding-left: 10rem;
   border-radius: 15px;
   height: 700px;
@@ -136,13 +136,13 @@ section li {
 #projects .projects-item {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  color: #fff;
-  background: #333;
+  color: #d9cfd7;
+  background: #1b1828;
   padding: 1rem;
   padding-left: 8rem;
   padding-right: 8rem;
   align-items: center;
-  border: rgb(172, 157, 157) 5px solid;
+  border: #828da6 5px solid;
   grid-gap: 2rem;
   margin-bottom: 3rem;
   border-radius: 15px;
@@ -174,10 +174,10 @@ section li {
 #school .school-items {
   display: grid;
   grid-template-rows: 1fr;
-  color: #fff;
-  background: #333;
+  color: #d9cfd7;
+  background: #1b1828;
   /* align-items: center; */
-  border: rgb(172, 157, 157) 5px solid;
+  border: #828da6 5px solid;
   text-align: center;
   border-radius: 15px;
   padding: 1rem;
@@ -186,12 +186,12 @@ section li {
 #skills .skill-items {
   display: grid;
   grid-template-columns: repeat(3, 2fr);
-  color: #fff;
-  background: #333;
+  color: #d9cfd7;
+  background: #1b1828;
   padding: 1rem;
   text-align: center;
   align-items: center;
-  border: rgb(172, 157, 157) 5px solid;
+  border: #828da6 5px solid;
   grid-gap: 2rem;
   border-radius: 15px;
   height: 250px;
@@ -200,26 +200,26 @@ section li {
 #interest .interest-items {
   display: grid;
   grid-template-columns: repeat(3, 2fr);
-  color: #fff;
-  background: #333;
+  color: #d9cfd7;
+  background: #1b1828;
   padding: 1rem;
   text-align: center;
   align-items: center;
-  border: rgb(172, 157, 157) 5px solid;
+  border: #828da6 5px solid;
   border-radius: 15px;
   height: 250px;
 }
 
 footer {
   background-color: black;
-  color: #fff;
+  color: #d9cfd7;
   text-align: center;
   padding: 3rem;
 }
 
 footer .social a {
   padding: 1rem;
-  color: #fff;
+  color: #d9cfd7;
   align-items: center;
 }
 
