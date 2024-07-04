@@ -89,6 +89,7 @@ section li {
 
 .id-pic {
   padding-left: 10rem;
+  padding-right: 10rem;
 }
 
 .id-pic img {
@@ -110,6 +111,10 @@ section li {
   padding-left: 10rem;
   border-radius: 15px;
   height: 700px;
+}
+
+#about p {
+  font-size: 20px;
 }
 
 #about h1 {
