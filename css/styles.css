@@ -133,6 +133,10 @@ section li {
   margin-top: 3rem;
 }
 
+#interest .container {
+  margin-top: 3rem;
+}
+
 #projects .projects-item {
   display: grid;
   grid-template-columns: 1fr 1fr;
